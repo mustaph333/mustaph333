@@ -8,7 +8,7 @@ Self-taught developer from Morocco, learning backend development.
 - **AI tools** - building practical AI-powered assistants
 
 ## Projects
-- [telegram-ai-bot](https://github.com/mustaph333/telegram-ai-bot) - a Telegram bot with an AI brain, built with Python *(in progress)*
+- [ai-bot](https://github.com/mustaph333/ai-bot) - a Telegram bot with an AI brain, built with Python *(in progress)*
 
 ## Goal
 Become a professional backend developer.
